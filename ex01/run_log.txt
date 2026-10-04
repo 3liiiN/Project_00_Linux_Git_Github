@@ -1,0 +1,3 @@
+This is a draft text.
+This is the second line.
+completed.

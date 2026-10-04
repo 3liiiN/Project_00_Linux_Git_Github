@@ -1,0 +1,48 @@
+.:
+total 28
+drwxrwxr-x  6 ali ali 4096 Oct  1 10:03 .
+drwxr-x--- 48 ali ali 4096 Oct  1 09:59 ..
+drwxrwxr-x  2 ali ali 4096 Oct  1 09:36 archives
+drwxrwxr-x  2 ali ali 4096 Oct  1 09:57 ex00
+-rw-rw-r--  1 ali ali    5 Oct  1 10:03 ls
+drwxrwxr-x  3 ali ali 4096 Oct  1 09:37 projects
+drwxrwxr-x  2 ali ali 4096 Oct  1 09:36 tools
+
+./archives:
+total 8
+drwxrwxr-x 2 ali ali 4096 Oct  1 09:36 .
+drwxrwxr-x 6 ali ali 4096 Oct  1 10:03 ..
+
+./ex00:
+total 8
+drwxrwxr-x 2 ali ali 4096 Oct  1 09:57 .
+drwxrwxr-x 6 ali ali 4096 Oct  1 10:03 ..
+-rw-rw-r-- 1 ali ali    0 Oct  1 10:06 tree_structure.txt
+
+./projects:
+total 12
+drwxrwxr-x 3 ali ali 4096 Oct  1 09:37 .
+drwxrwxr-x 6 ali ali 4096 Oct  1 10:03 ..
+drwxrwxr-x 4 ali ali 4096 Oct  1 09:37 web
+
+./projects/web:
+total 16
+drwxrwxr-x 4 ali ali 4096 Oct  1 09:37 .
+drwxrwxr-x 3 ali ali 4096 Oct  1 09:37 ..
+drwxrwxr-x 2 ali ali 4096 Oct  1 09:37 backend
+drwxrwxr-x 2 ali ali 4096 Oct  1 09:37 frontend
+
+./projects/web/backend:
+total 8
+drwxrwxr-x 2 ali ali 4096 Oct  1 09:37 .
+drwxrwxr-x 4 ali ali 4096 Oct  1 09:37 ..
+
+./projects/web/frontend:
+total 8
+drwxrwxr-x 2 ali ali 4096 Oct  1 09:37 .
+drwxrwxr-x 4 ali ali 4096 Oct  1 09:37 ..
+
+./tools:
+total 8
+drwxrwxr-x 2 ali ali 4096 Oct  1 09:36 .
+drwxrwxr-x 6 ali ali 4096 Oct  1 10:03 ..
